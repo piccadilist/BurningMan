@@ -14,7 +14,7 @@ ul, li {
     margin: 0 auto;
 }
 .header {
-    background-image: url(/image/3/header-bg.jpg);
+    background-image: url(header-bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     padding-top: 40px;
